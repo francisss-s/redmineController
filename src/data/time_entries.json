@@ -1,0 +1,1318 @@
+{
+    "time_entries": [
+        {
+            "id": 70634,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 60199
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 4.0,
+            "comments": "Avance",
+            "spent_on": "2024-12-24",
+            "created_on": "2024-12-31T06:50:53Z",
+            "updated_on": "2024-12-31T06:51:02Z"
+        },
+        {
+            "id": 70633,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 57885
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 3.0,
+            "comments": "Reunion JE",
+            "spent_on": "2024-12-23",
+            "created_on": "2024-12-31T06:50:19Z",
+            "updated_on": "2024-12-31T06:50:19Z"
+        },
+        {
+            "id": 70632,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 60108
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 1.0,
+            "comments": "Revision",
+            "spent_on": "2024-12-23",
+            "created_on": "2024-12-31T06:49:49Z",
+            "updated_on": "2024-12-31T06:49:49Z"
+        },
+        {
+            "id": 70631,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58879
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 4.0,
+            "comments": "Avance",
+            "spent_on": "2024-12-23",
+            "created_on": "2024-12-31T06:48:41Z",
+            "updated_on": "2024-12-31T06:48:41Z"
+        },
+        {
+            "id": 70630,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 60108
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 1.0,
+            "comments": "Revision",
+            "spent_on": "2024-12-22",
+            "created_on": "2024-12-31T06:47:31Z",
+            "updated_on": "2024-12-31T06:47:31Z"
+        },
+        {
+            "id": 70629,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58867
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 3.0,
+            "comments": "Revision recetas mrp",
+            "spent_on": "2024-12-22",
+            "created_on": "2024-12-31T06:47:13Z",
+            "updated_on": "2024-12-31T06:47:13Z"
+        },
+        {
+            "id": 70628,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58867
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 2.0,
+            "comments": "Revision recetas",
+            "spent_on": "2024-12-21",
+            "created_on": "2024-12-31T06:46:59Z",
+            "updated_on": "2024-12-31T06:46:59Z"
+        },
+        {
+            "id": 70627,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 60108
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 2.0,
+            "comments": "Revision configuraciones mrp",
+            "spent_on": "2024-12-21",
+            "created_on": "2024-12-31T06:46:42Z",
+            "updated_on": "2024-12-31T06:46:42Z"
+        },
+        {
+            "id": 70624,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 57885
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 12,
+                "name": "Reunión"
+            },
+            "hours": 3.0,
+            "comments": "reunion con CM",
+            "spent_on": "2024-12-20",
+            "created_on": "2024-12-31T06:42:58Z",
+            "updated_on": "2024-12-31T06:42:58Z"
+        },
+        {
+            "id": 70623,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 60108
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 3.0,
+            "comments": "Revision configuraciones",
+            "spent_on": "2024-12-20",
+            "created_on": "2024-12-31T06:42:18Z",
+            "updated_on": "2024-12-31T06:42:18Z"
+        },
+        {
+            "id": 70626,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 60199
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 1.0,
+            "comments": "Avance",
+            "spent_on": "2024-12-19",
+            "created_on": "2024-12-31T06:45:46Z",
+            "updated_on": "2024-12-31T06:45:46Z"
+        },
+        {
+            "id": 70625,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 57885
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 12,
+                "name": "Reunión"
+            },
+            "hours": 3.0,
+            "comments": "Reunion ",
+            "spent_on": "2024-12-19",
+            "created_on": "2024-12-31T06:44:46Z",
+            "updated_on": "2024-12-31T06:44:46Z"
+        },
+        {
+            "id": 70622,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58867
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 4.0,
+            "comments": "avance front",
+            "spent_on": "2024-12-19",
+            "created_on": "2024-12-31T06:41:26Z",
+            "updated_on": "2024-12-31T06:41:26Z"
+        },
+        {
+            "id": 70621,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58867
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 6.0,
+            "comments": "Avance front",
+            "spent_on": "2024-12-18",
+            "created_on": "2024-12-31T06:39:19Z",
+            "updated_on": "2024-12-31T06:39:19Z"
+        },
+        {
+            "id": 70620,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58867
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 8.0,
+            "comments": "Avance Front",
+            "spent_on": "2024-12-18",
+            "created_on": "2024-12-31T06:37:08Z",
+            "updated_on": "2024-12-31T06:37:08Z"
+        },
+        {
+            "id": 70619,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 60199
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 8.0,
+            "comments": "avance",
+            "spent_on": "2024-12-17",
+            "created_on": "2024-12-31T06:34:52Z",
+            "updated_on": "2024-12-31T06:34:52Z"
+        },
+        {
+            "id": 70618,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 60108
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 4.0,
+            "comments": "avance",
+            "spent_on": "2024-12-16",
+            "created_on": "2024-12-31T06:34:13Z",
+            "updated_on": "2024-12-31T06:34:13Z"
+        },
+        {
+            "id": 70617,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 59941
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 4.0,
+            "comments": "avance",
+            "spent_on": "2024-12-16",
+            "created_on": "2024-12-31T06:33:59Z",
+            "updated_on": "2024-12-31T06:33:59Z"
+        },
+        {
+            "id": 70616,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 59941
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 3.0,
+            "comments": "avance",
+            "spent_on": "2024-12-13",
+            "created_on": "2024-12-31T06:30:01Z",
+            "updated_on": "2024-12-31T06:30:01Z"
+        },
+        {
+            "id": 70615,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 60199
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 3.0,
+            "comments": "Avance",
+            "spent_on": "2024-12-13",
+            "created_on": "2024-12-31T06:25:54Z",
+            "updated_on": "2024-12-31T06:28:59Z"
+        },
+        {
+            "id": 70035,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 60130
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 8.0,
+            "comments": "avance",
+            "spent_on": "2024-12-12",
+            "created_on": "2024-12-17T14:59:42Z",
+            "updated_on": "2024-12-17T14:59:42Z"
+        },
+        {
+            "id": 70614,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 59941
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 4.0,
+            "comments": "Avance",
+            "spent_on": "2024-12-11",
+            "created_on": "2024-12-31T06:23:45Z",
+            "updated_on": "2024-12-31T06:23:45Z"
+        },
+        {
+            "id": 70613,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 60108
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 4.0,
+            "comments": "",
+            "spent_on": "2024-12-11",
+            "created_on": "2024-12-31T06:20:13Z",
+            "updated_on": "2024-12-31T06:20:13Z"
+        },
+        {
+            "id": 70612,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 59941
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 4.0,
+            "comments": "Avance",
+            "spent_on": "2024-12-10",
+            "created_on": "2024-12-31T06:17:44Z",
+            "updated_on": "2024-12-31T06:17:44Z"
+        },
+        {
+            "id": 70611,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 60108
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 18,
+                "name": "Pruebas Internas - Desarrollo"
+            },
+            "hours": 4.0,
+            "comments": "Avance",
+            "spent_on": "2024-12-10",
+            "created_on": "2024-12-31T06:15:11Z",
+            "updated_on": "2024-12-31T06:15:11Z"
+        },
+        {
+            "id": 70610,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 60108
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 18,
+                "name": "Pruebas Internas - Desarrollo"
+            },
+            "hours": 2.0,
+            "comments": "Revisando",
+            "spent_on": "2024-12-09",
+            "created_on": "2024-12-31T06:13:16Z",
+            "updated_on": "2024-12-31T06:32:24Z"
+        },
+        {
+            "id": 70609,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58879
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 2.0,
+            "comments": "Avance",
+            "spent_on": "2024-12-09",
+            "created_on": "2024-12-31T06:12:11Z",
+            "updated_on": "2024-12-31T06:14:17Z"
+        },
+        {
+            "id": 70607,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 59900
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 4.0,
+            "comments": "Terminado",
+            "spent_on": "2024-12-09",
+            "created_on": "2024-12-31T05:48:53Z",
+            "updated_on": "2024-12-31T06:11:49Z"
+        },
+        {
+            "id": 70608,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58867
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 6.0,
+            "comments": "Avance",
+            "spent_on": "2024-12-06",
+            "created_on": "2024-12-31T06:08:22Z",
+            "updated_on": "2024-12-31T06:08:22Z"
+        },
+        {
+            "id": 69500,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58867
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 8.0,
+            "comments": "avance",
+            "spent_on": "2024-12-05",
+            "created_on": "2024-12-06T12:27:52Z",
+            "updated_on": "2024-12-06T12:27:52Z"
+        },
+        {
+            "id": 69499,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58867
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 8.0,
+            "comments": "avance",
+            "spent_on": "2024-12-04",
+            "created_on": "2024-12-06T12:27:46Z",
+            "updated_on": "2024-12-06T12:27:46Z"
+        },
+        {
+            "id": 69498,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58867
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 8.0,
+            "comments": "avance",
+            "spent_on": "2024-12-03",
+            "created_on": "2024-12-06T12:27:40Z",
+            "updated_on": "2024-12-06T12:27:40Z"
+        },
+        {
+            "id": 69497,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58867
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 8.0,
+            "comments": "Avance",
+            "spent_on": "2024-12-02",
+            "created_on": "2024-12-06T12:27:32Z",
+            "updated_on": "2024-12-06T12:27:32Z"
+        },
+        {
+            "id": 69496,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58867
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 6.0,
+            "comments": "Avance",
+            "spent_on": "2024-11-29",
+            "created_on": "2024-12-06T12:27:09Z",
+            "updated_on": "2024-12-06T12:27:09Z"
+        },
+        {
+            "id": 69495,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58867
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 8.0,
+            "comments": "Avance",
+            "spent_on": "2024-11-28",
+            "created_on": "2024-12-06T12:27:00Z",
+            "updated_on": "2024-12-06T12:27:00Z"
+        },
+        {
+            "id": 69494,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58475
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 2.0,
+            "comments": "Cambio de transacciones",
+            "spent_on": "2024-11-26",
+            "created_on": "2024-12-06T12:25:50Z",
+            "updated_on": "2024-12-06T12:25:50Z"
+        },
+        {
+            "id": 68585,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58345
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 1.0,
+            "comments": "Finalizado",
+            "spent_on": "2024-11-18",
+            "created_on": "2024-11-18T14:47:13Z",
+            "updated_on": "2024-11-18T14:47:13Z"
+        },
+        {
+            "id": 68584,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58354
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 3.0,
+            "comments": "Finalizado",
+            "spent_on": "2024-11-18",
+            "created_on": "2024-11-18T14:46:23Z",
+            "updated_on": "2024-11-18T14:46:23Z"
+        },
+        {
+            "id": 68583,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 58346
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 4.0,
+            "comments": "Finalizado",
+            "spent_on": "2024-11-15",
+            "created_on": "2024-11-18T14:45:36Z",
+            "updated_on": "2024-11-18T14:45:36Z"
+        },
+        {
+            "id": 68270,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 46675
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 5.0,
+            "comments": "Avance, modificaion de metodo encargado de creacion de tabla",
+            "spent_on": "2024-11-11",
+            "created_on": "2024-11-11T19:24:07Z",
+            "updated_on": "2024-11-11T19:24:30Z"
+        },
+        {
+            "id": 68267,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 57885
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 12,
+                "name": "Reunión"
+            },
+            "hours": 2.0,
+            "comments": "reunion definicion VDPI 11-11",
+            "spent_on": "2024-11-11",
+            "created_on": "2024-11-11T19:19:09Z",
+            "updated_on": "2024-11-11T19:19:09Z"
+        },
+        {
+            "id": 67364,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 56063
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 2.0,
+            "comments": "Agregada funcionalidad,agregada transaccion para obtener solo producto intermedio",
+            "spent_on": "2024-10-17",
+            "created_on": "2024-10-21T16:53:25Z",
+            "updated_on": "2024-10-21T16:53:25Z"
+        },
+        {
+            "id": 66988,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 55837
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 3.5,
+            "comments": "Terminado, agregado boton y se usa libreria xlsx js",
+            "spent_on": "2024-10-10",
+            "created_on": "2024-10-10T18:51:56Z",
+            "updated_on": "2024-10-10T18:51:56Z"
+        },
+        {
+            "id": 66987,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 55836
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 1.0,
+            "comments": "Mejora de uso de filtros",
+            "spent_on": "2024-10-10",
+            "created_on": "2024-10-10T18:49:28Z",
+            "updated_on": "2024-10-10T18:49:28Z"
+        },
+        {
+            "id": 66600,
+            "project": {
+                "id": 442,
+                "name": "ARQUITECTURA TECNOLÓGICA DE PLATAFORMAS - INTERNO"
+            },
+            "issue": {
+                "id": 51244
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 952,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 8.0,
+            "comments": "creacion componente filtro",
+            "spent_on": "2024-10-03",
+            "created_on": "2024-10-04T12:26:45Z",
+            "updated_on": "2024-10-04T12:26:45Z"
+        },
+        {
+            "id": 66513,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 55375
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 8.0,
+            "comments": "Revision de diseño en web",
+            "spent_on": "2024-09-30",
+            "created_on": "2024-10-01T19:05:56Z",
+            "updated_on": "2024-10-01T19:05:56Z"
+        },
+        {
+            "id": 66508,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 55375
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 6.0,
+            "comments": "Creacion de mantenedor de componentes",
+            "spent_on": "2024-09-27",
+            "created_on": "2024-10-01T19:01:14Z",
+            "updated_on": "2024-10-01T19:01:14Z"
+        },
+        {
+            "id": 66507,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 55375
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 8.0,
+            "comments": "Revision de datos cargados en BOM",
+            "spent_on": "2024-09-26",
+            "created_on": "2024-10-01T19:00:21Z",
+            "updated_on": "2024-10-01T19:00:44Z"
+        },
+        {
+            "id": 66510,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 55375
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 10,
+                "name": "Análisis de Software"
+            },
+            "hours": 4.0,
+            "comments": "Avence y anotaciones de reunion con kunstmann para mejoras de cargasen BOM",
+            "spent_on": "2024-09-25",
+            "created_on": "2024-10-01T19:02:04Z",
+            "updated_on": "2024-10-01T19:02:04Z"
+        },
+        {
+            "id": 66235,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 55028
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 7.0,
+            "comments": "Avance y cambios de calculos de mrp",
+            "spent_on": "2024-09-24",
+            "created_on": "2024-09-24T20:27:08Z",
+            "updated_on": "2024-09-24T20:27:08Z"
+        },
+        {
+            "id": 66234,
+            "project": {
+                "id": 390,
+                "name": "WING LOGISTICS"
+            },
+            "issue": {
+                "id": 43326
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 0.2,
+            "comments": "Modificada fecha que se muestra en modal de moviles",
+            "spent_on": "2024-09-24",
+            "created_on": "2024-09-24T20:19:53Z",
+            "updated_on": "2024-09-24T20:19:53Z"
+        },
+        {
+            "id": 66238,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 55022
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 6.0,
+            "comments": "Avance y finalizacion de modificacion de carga de BOM",
+            "spent_on": "2024-09-23",
+            "created_on": "2024-09-24T20:29:59Z",
+            "updated_on": "2024-09-24T20:29:59Z"
+        },
+        {
+            "id": 66250,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 55022
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 6.0,
+            "comments": "avance",
+            "spent_on": "2024-09-17",
+            "created_on": "2024-09-25T12:18:04Z",
+            "updated_on": "2024-09-25T12:18:04Z"
+        },
+        {
+            "id": 66024,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 53930
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 789,
+                "name": "Desarrollo Software - FrontEnd"
+            },
+            "hours": 6.0,
+            "comments": "Avance resumen",
+            "spent_on": "2024-09-13",
+            "created_on": "2024-09-16T17:23:11Z",
+            "updated_on": "2024-09-16T17:23:11Z"
+        },
+        {
+            "id": 66253,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 53930
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 8.0,
+            "comments": "Avance de modificación",
+            "spent_on": "2024-09-12",
+            "created_on": "2024-09-25T12:25:19Z",
+            "updated_on": "2024-09-25T12:25:19Z"
+        },
+        {
+            "id": 66254,
+            "project": {
+                "id": 402,
+                "name": "WING FACTORY"
+            },
+            "issue": {
+                "id": 53930
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 9,
+                "name": "Desarrollo Software - BackEnd"
+            },
+            "hours": 8.0,
+            "comments": "Avance",
+            "spent_on": "2024-09-11",
+            "created_on": "2024-09-25T12:25:39Z",
+            "updated_on": "2024-09-25T12:25:39Z"
+        },
+        {
+            "id": 65415,
+            "project": {
+                "id": 318,
+                "name": "SECCIÓN7 - SERVICIO WEST"
+            },
+            "issue": {
+                "id": 51783
+            },
+            "user": {
+                "id": 93,
+                "name": "Francisco Fuentes"
+            },
+            "activity": {
+                "id": 10,
+                "name": "Análisis de Software"
+            },
+            "hours": 0.1,
+            "comments": "Verificacion de informacion en prd",
+            "spent_on": "2024-09-02",
+            "created_on": "2024-09-02T15:31:07Z",
+            "updated_on": "2024-09-02T15:31:07Z"
+        }
+    ],
+    "total_count": 57,
+    "offset": 0,
+    "limit": 100
+}
